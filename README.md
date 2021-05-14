@@ -8,7 +8,8 @@ A plugin which tokenizes Tibetan Text to Words using Botok. Currently it is in i
 
 ## Installation
 
-You can get a plugin jar file from zip distribution file.
+You can get a plugin jar file from zip distribution file. (Download from Releases or <a href="https://github.com/vaish3496/BotokTokenizer-OmegaT-Plugin/releases/download/1/BotokTokenizer-0.1.zip">Download Link</a>)
+
 OmegaT plugin should be placed in `$HOME/.omegat/plugin` or `C:\Program Files\OmegaT\plugin`
 depending on your operating system.
 
